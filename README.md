@@ -161,6 +161,6 @@ pip install -r requirements.txt
 
 ## 🙋 Author
 
-**Lathish**
+**Pandipatla Lathish**
 MCA Student | Aspiring Data / IT Professional, India
 
