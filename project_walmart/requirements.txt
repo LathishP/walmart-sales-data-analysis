@@ -1,0 +1,14 @@
+# Walmart End-to-End Python + SQL Project
+# Install with: pip install -r requirements.txt
+
+# Data handling & analysis
+pandas>=2.0.0
+
+# Database ORM / connection engine
+sqlalchemy>=2.0.0
+
+# MySQL driver (used with SQLAlchemy via mysql+pymysql://)
+pymysql>=1.1.0
+
+# Kaggle API (for dataset download)
+kaggle>=1.6.0
